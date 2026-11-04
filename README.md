@@ -8,7 +8,7 @@ The larger goal: understand data well enough to ask better questions about how p
 
 | Area | Status | Notes |
 |---|---|---|
-| Python fundamentals | Not started | |
+| Python fundamentals | In progress | |
 | NumPy & pandas | Not started | |
 | SQL | Not started | |
 | Exploratory data analysis | Not started | |
